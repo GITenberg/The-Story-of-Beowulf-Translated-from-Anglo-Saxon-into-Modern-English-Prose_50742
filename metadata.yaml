@@ -1,4 +1,5 @@
 _repo: The-Story-of-Beowulf-Translated-from-Anglo-Saxon-into-Modern-English-Prose_50742
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Lawrance, Frederic
@@ -8,6 +9,9 @@ contributor:
     agent_name: Kirtlan, Ernest J. B.
     gutenberg_agent_id: '46067'
     url: http://www.gutenberg.org/2009/agents/46067
+covers:
+- cover_type: archival
+  image_path: 50742-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50742#The-Story-of-Beowulf-Translated-from-Anglo-Saxon-into-Modern-English-Prose
 gutenberg_issued: '2015-12-21'
 gutenberg_type: Text
 identifiers:
